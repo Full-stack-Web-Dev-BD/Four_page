@@ -1,0 +1,230 @@
+.top{
+    color: white;
+    background-image: url('./images/business.png');
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0;
+}
+element.style {
+}
+.top_layer {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    opacity: 0.9;
+    background-color: #040929;
+}
+
+.date_top{
+    
+    font-size: 22px;
+    color: #F31D42;
+    font-weight: 700;
+
+}
+.date_top span{
+    color:white
+
+}
+.video_title p{
+    font-size: 60px;
+    font-weight: 300;
+    color: white;
+}
+.video_title h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+}
+.left{
+    pading:30px 0;
+}
+.description p{
+    font-size:25px;
+}
+.single_clock{
+    display: inline-block;
+    text-align: center;
+}
+
+.single_clock p{
+    color:#F31E40;
+    font-weight: 700;
+    size: 20px;
+}
+
+.single_clock{
+    margin-right: 20px;
+}
+.timer_area h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+.single_number{
+
+    position: relative;
+    width: 65px;
+    height: 65px;
+    border: 2px solid #F31E40;
+}
+.single_number span{
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+    font-weight: 600;
+
+}
+.learn_btn{
+    
+    color: white;
+    border: 1px solid white;
+    padding: 15px 30px;
+    border-radius: 57px;
+    font-weight: 700;
+
+}
+/* form */
+.single_input input{
+    min-height: -4px;
+    padding: 16px;
+    width: 100%;
+}
+.single_input label{
+    width: 100%;
+    color: #F31E40;
+    font-weight: 700;
+    font-size: 20px;
+}
+.right_content{
+    border: 1px solid red;
+    padding: 180px 60px 80px;
+    position: relative;
+}
+.reg_btn{
+    color: white;
+    background: #F31D42;
+    padding: 14px 43px;
+    border-radius: 61px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.holder{
+    position: relative;
+}
+.video_i_frame{
+    top: -50px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+/* what*/
+.pt_80{
+    padding-top: 80px;
+}
+
+.header h2{
+    font-weight: 400;
+    position: relative;
+    margin-bottom: 60px;
+}
+
+.header span{
+    position: absolute;
+    background-color: #F31E40;
+    width: 100px;
+    height: 4px;
+    top: 160%;
+    left: 0;
+}
+.icon{
+    width: 25%;
+}
+.icon img{
+    width: 100%;
+    border-radius: 100%;
+}
+.header_text h2{
+    font-weight: 300;
+    line-height: 2.4;
+    margin-left: 26px;
+    color: #F31D42;
+}
+.header_text h2 span{
+    font-weight: 600;
+}
+.single_pare p{
+    font-size: 18px;
+
+}
+.right_text h3{
+    position: relative;
+}
+.right_text h3 span {
+    position: absolute;
+    right: 113%;
+    font-size: 18px;
+    font-weight: 500;
+    color: red;
+    top: 10px;
+}
+.line_holder{
+    position: relative;
+}
+.line{
+    position: absolute;
+    width: 2px;
+    height: 704px;
+    right: 106%;
+    background-color: red;
+    top: -133px;
+}
+/* =================man_container======================== */
+.man_container{
+    margin-top: 100px;
+    max-width: 100%;
+    position: relative;
+    height: 300px;
+    background-color: rgb(31, 36, 65);
+}
+.man_container img{
+    position: absolute;
+    bottom: 0;
+    max-width: 221px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.pos_btn{
+    position: absolute;
+    bottom: -27px;
+    max-width: 221px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.about_right{
+    padding-top: 65px;
+}
+.about_right h1 span{
+    font-weight: 300;
+    font-size: 25px;
+}
+.about_right h2{
+    margin-top: 20px;
+    font-weight: 400;
+    color: red;
+}
+.about_right p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+
+.pb_150{
+    padding-bottom: 150px;
+}

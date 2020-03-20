@@ -1,0 +1,249 @@
+/* colgroup :25243B */
+.f_500{
+    font-weight: 500;
+}
+
+.fz_22{
+    font-size: 21px;
+    text-emphasis: justify;
+}
+.fw_300{
+    font-weight: 400;
+}
+.fw_700{
+    font-weight: 700;
+}
+.buy_btn{
+    border-radius: 30px;
+    background-color: #EC4144;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    padding: 8px 50px;
+}
+.buy_btn_white{
+    color:#25243B;
+    background-color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 8px 60px;
+}
+.read_more{
+    color:#25243B;
+    border-radius: 30px;
+    border: 2px solid #25243B;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 50px;
+}
+
+/*===== header left content==== */
+.menu_outer{
+    min-height: 80px;
+    overflow: hidden;
+    background-color: #F2F2F2;
+}
+.root_icon_top{
+    position: relative;
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+    background-color: #fff;
+}
+.icon_holder_top{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+}
+.header_right_content{
+    margin: 15px 0;
+}
+.logo{
+    min-height: 80px;
+    max-height: 80px;
+    position: relative;
+}
+.logo img{
+    position: absolute;
+    top: 50%;
+    transform: translate(0 ,-50%);
+}
+
+.text{
+    min-height: 80px;
+    max-height: 80px;
+    position: relative;
+}
+
+.header_left_content .text span{
+    top: 50%;
+    left: 90px;
+    transform: translate(0 ,-50%);
+    white-space: nowrap;;
+    font-size: 22px;
+    position: absolute;
+}
+/* unique side  */
+.unique_left{}
+.unique_left p{
+    font-weight: 500;
+}
+
+.unique_left h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.cost p{
+    font-size: 26px;
+}
+.price{
+    margin-bottom: 20px;
+    display: flex;
+}
+.price h1{
+    color: #25243B;
+    font-size: 60px;
+}
+.price p{
+    position: relative;
+    color: #25243B;
+    top: 21px;
+    margin-right: 4px;
+    margin-left: 80px;
+    font-size: 34px;
+}
+/* ============================================================ about area ================= */
+.about{
+    background-image: url(./image/img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 800px;
+    min-height: 600px;
+}
+.read_about{
+    color: white;
+}
+.read_about h1{
+    margin-top: 35px;
+}
+.read_content{
+    background-color: #25243B;
+    padding: 30px;
+}
+.about_text{
+    font-size: 18px;
+    padding-top: 30px;
+}
+.root_icon{
+    position: relative;
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+    background-color: #505163;
+}
+.icon_holder{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+
+}
+/* galary area =================================== */
+.single_image{
+    padding: 4px;
+}
+.single_image img {
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    border: 1px solid rgb(189, 187, 187);
+    height: 100%;
+    margin: 3px;
+}
+.strong_content{
+    border: 1px solid  #e4e4e4;;
+    border-bottom: 10px solid #e4e4e4;
+}
+.single_para p{
+    font-weight: '500';
+}
+/* encourage content====================================*/
+.encourage_area{
+    margin-top: 50px;
+    background-color:#EC4144 ;
+    text-align: center;
+}
+
+.encourage_content h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+.encourage_content p{
+    color: white;
+}
+/* product area  */
+.no_gutter{
+    padding: 0 !important;
+}
+.other_product{
+    background-color: #F9E577;
+    margin: 5px;
+    padding: 0 50px !important;
+    min-height: 450px;
+}
+.other_product h2{
+    font-weight: 700;
+    padding-top: 50px;
+    padding-bottom: 22px;
+}
+.other_product p{
+    font-weight: 500;
+    font-size: 22px;
+    padding-bottom: 22px;
+}
+.card{
+    min-height: 450px;
+    margin:16px 5px 5px 5px !important
+}
+.card img{
+    width: 100%;
+}
+.card_title{
+    display: flex;
+}
+.card_body{
+    padding: 30px;
+    padding-top: 0;
+}
+.card_body p{
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.footer{
+    padding:50px 50px 90px 50px;
+}
+
+.btn_up{
+    font-size: 20px;
+    font-weight: 700;
+    color:#25243B
+}
+
+.social_media{
+    display: inline-block;
+    margin-left: auto;
+    line-height: inherit;
+    margin: 17px 0;
+}
+
+.br_white{
+    background-color: white !important;
+    border-radius: 50px;
+}
