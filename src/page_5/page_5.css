@@ -1,0 +1,143 @@
+.header_section{
+    background-image: url('./images/businessImage.png');
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    min-height: 700px;
+
+}
+
+
+.header_content h3{ 
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-size: 35px;
+}
+
+.slider_content p {
+    font-size: 24px;
+    font-weight: 500;
+}
+.small p{
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+
+.get_btn{
+    margin-top: 80px;
+    color: white;
+    background: #0215f3;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 10px 56px;
+    border-radius: 40px;
+}
+.phone_section {
+    background-color: #F5F5F7;
+    padding: 70px 0;
+}
+.mobile {
+    text-align: right;
+}
+.mobile img{
+    max-width: 80%;
+    border-radius: 30px;
+    margin-right: 50px;
+}
+
+.mobile_right h2{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.rowfitness_content  {
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+    font-weight: 700;
+}
+.rowfitness_content h2 {
+    padding: 70px 0;
+}
+.phone_group img {
+    border-radius: 44px;
+}
+.phone_group p{
+    font-size: 18px;
+    margin: 0 40px;
+}
+.mr_73{
+    margin-right: 78px !important;
+    font-size: 15px !important;
+    margin-bottom: 15px !important;
+}
+.mr_7{
+    font-size: 15px !important;
+    margin-bottom: 15px !important;
+}
+.ml_73{
+    margin-left: 78px !important;
+    font-size: 15px !important;
+    margin-bottom: 15px !important;
+}
+.img1{
+    width: 37%;
+}
+.img1 img{
+    width: 100%;
+}
+.img2{
+    display: none;
+}
+.img2 img{}
+.img3{
+    position: relative;
+    width: 63%;
+    text-align: right;
+}
+
+.fitness{
+    position: relative;
+    margin-bottom: 220px;
+}
+.imgTop{
+    top: -10px;
+    position: absolute;
+    width: 50.6%;
+    left: -39%;
+    transform: translate(50%);
+}
+.imgTop img{
+    width: 100% !important;
+}
+.new{
+    width: 100%;
+    text-align: center;
+}
+.img3 .new img{
+    width: 58.6%;
+}
+
+.logo_bottom{
+    position: absolute;
+    width: 100%;
+    padding: 100px 0;
+    background-color: #F5F5F7;
+    top: 82%;
+    width: 100%;
+}
+/* ===========================header_section */
+
+.footer_section{
+    background-image: url('./images/businessImage.png');
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    min-height: 500px;
+
+}
